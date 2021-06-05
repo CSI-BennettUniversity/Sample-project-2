@@ -5,7 +5,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/IgnisDa/python-random-markdown-generator/badge.svg?branch=master)](https://coveralls.io/github/IgnisDa/python-random-markdown-generator?branch=master)
 
 A library to generate random markdown text.
-
+# Introduction 
 ## But why?
 
 I was making a blog web-app that lets its users write blog posts using markdown
@@ -14,6 +14,7 @@ syntax. I couldn't find any python package that does this easily. Using the
 make a highly configurable markdown post generator. Additionally, it also
 provides an API for creating markdown files using python.
 
+# Guide
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your
@@ -90,7 +91,9 @@ pytest --cov --cov-report=html --cache-clear
 
 Then open `htmlcov/index.html` in your browser to see the test coverage.
 
-### Coding style
+# The Developement
+
+## Coding style
 
 This project follows the [pep8](https://pep8.org/) specifications. The maximum
 line length has been increased to 90 characters. For the flake8 configuration
@@ -116,7 +119,7 @@ conduct, and the process for submitting pull requests to us.
 
 We use [SemVer](http://semver.org/) for versioning.
 
-## Author
+# Author
 
 - [IgnisDa](https://github.com/IgnisDa/) (**Diptesh Choudhuri**) - _Initial
   work_
@@ -134,4 +137,4 @@ file for details.
 
 - Hat tip to anyone whose code was used
 
-[1]: https://github.com/python-poetry/poetry
+[https://github.com/python-poetry/poetry](https://github.com/python-poetry/poetry)
